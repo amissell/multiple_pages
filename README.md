@@ -41,20 +41,16 @@ Once the site is up and running, you can navigate through the various pages to e
 ## Contributing
 ------------
 
-* Provide guidelines on how to contribute to your project
 
 ## License
 -------
 
-* Specify the license under which your project is released
 
 ## Authors
 -------
 
-* List the authors of your project
 
 ## Acknowledgments
 --------------
 
-* Acknowledge any third-party libraries or resources used in your project
 -----------------------
